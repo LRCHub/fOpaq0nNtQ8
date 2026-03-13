@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Do It Like That",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-03-13T12:34:46.501251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do It Like That",
+      "artist": "Ricki-Lee",
+      "has_synced": true,
+      "path": "select/01_Do_It_Like_That_Ricki-Lee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do It Like That",
+      "artist": "Nevv",
+      "has_synced": false,
+      "path": "select/02_Do_It_Like_That_Nevv.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do It Like That",
+      "artist": "Michele Morrone",
+      "has_synced": true,
+      "path": "select/03_Do_It_Like_That_Michele_Morrone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Do It Like That",
+      "artist": "Down Low",
+      "has_synced": false,
+      "path": "select/04_We_Do_It_Like_That_Down_Low.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do It Like That",
+      "artist": "Ricki‐Lee",
+      "has_synced": false,
+      "path": "select/05_Do_It_Like_That_Ricki‐Lee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do It Like That",
+      "artist": "Michele Morrone",
+      "has_synced": true,
+      "path": "select/06_Do_It_Like_That_Michele_Morrone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "do it like that",
+      "artist": "tomorrow x together",
+      "has_synced": true,
+      "path": "select/07_do_it_like_that_tomorrow_x_together.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do it like that -Michele Morrone",
+      "artist": "Michele Morrone",
+      "has_synced": true,
+      "path": "select/08_Do_it_like_that_-Michele_Morrone_Michele_Morrone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do It Like That",
+      "artist": "Jonas Brothers",
+      "has_synced": true,
+      "path": "select/09_Do_It_Like_That_Jonas_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do It Like That",
+      "artist": "NOISY",
+      "has_synced": true,
+      "path": "select/10_Do_It_Like_That_NOISY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Do It Like That",
+      "artist": "Jonas Brothers",
+      "has_synced": true,
+      "path": "select/11_Do_It_Like_That_Jonas_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Do It Like That",
+      "artist": "The California Honeydrops",
+      "has_synced": false,
+      "path": "select/12_Do_It_Like_That_The_California_Honeydrops.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do It Like That",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Do_It_Like_That_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
